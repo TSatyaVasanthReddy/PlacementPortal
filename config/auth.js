@@ -1,0 +1,12 @@
+module.exports={
+  "facebookAuth":{
+    'clientID':'1604775506514918',
+    'clientSecret':'f2d9f102c18aa8cd01aed282221c044c',
+    'callbackURL':'http://localhost:1997/auth/facebook/callback'
+  },
+  "googleAuth":{
+    'clientID':'18914358375-bbr23lg5k8u5t115ims8t75cq7c4s7ij.apps.googleusercontent.com',
+    'clientSecret':'0gJrmbk2UcJGcHybERmUwyIQ',
+    'callbackURL':'http://localhost:1997/auth/google/callback'
+  }
+}
